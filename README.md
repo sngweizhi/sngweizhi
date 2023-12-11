@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sngweizhi
+- 👋 Hi, I’m Nick
 
 
 <!---
